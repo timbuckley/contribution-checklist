@@ -9,7 +9,7 @@ Issues are for bugs. If you have questions, ask them on a [community forum][comm
 ## Checklist
 
   * [x] Does your title concisely summarize the problem?
-  * [x] Did you include a minimal, reproducable example? Is it an [SSCCE][sscce]?
+  * [x] Did you include a minimal, reproducable example? Is it an [SSCCE][sscce]? **NOTE:** You can include the code in an [ellie](https://ellie-app.com) if you want, but please have the code directly in the issue, please!
   * [x] What OS and browser are you using? What versions?
   * [x] What version of Elm are you using?
 
